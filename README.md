@@ -23,6 +23,6 @@
 
 - [@Darkness](https://www.github.com/71darkness17) - Encoder
 - [@Desmant8](https://www.github.com/Dezmat8) - Decoder
-- [@Zipi64]([https://github.com/Zzzpize](https://github.com/Zipi64)) - Frontend/Teamlead
+- [@Zipi64](https://github.com/Zipi64) - Frontend/Teamlead
 - [@dmitriyz1024]() - Signal Engineer/Decoder
 
